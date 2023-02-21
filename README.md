@@ -48,7 +48,3 @@ I am still in the basics of everything so I hope I can learn more of all.
 ## Author
 
 - Frontend Mentor - [@Felipe-de-Almeida-Ferreira](https://www.frontendmentor.io/profile/Felipe-de-Almeida-Ferreira)
-
-## Acknowledgments
-
-I want to give a thank you to my brother, that helped me with my questions.
